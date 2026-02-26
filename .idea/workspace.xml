@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb439f46-6940-450e-9d4b-893823ceb5e9" name="Changes" comment="making main public" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Exception" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="origin/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="COMP301-S26-main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+    &quot;lastFilter&quot;: {}
+    }</component>
+  <component name="GitHubPullRequestState">{
+    &quot;prStates&quot;: [
+    {
+    &quot;id&quot;: {
+    &quot;id&quot;: &quot;PR_kwDORNK1xc7C1EoP&quot;,
+    &quot;number&quot;: 1
+    },
+    &quot;lastSeen&quot;: 1770844842186
+    }
+    ]
+    }</component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ajrodri37/connectCarolina.git",
+    "accountId": "bf659328-d891-46c8-823a-2042097891d0"
+  }
+}]]></component>
+  <component name="KubernetesApiProvider"><![CDATA[{
+  "isMigrated": true
+}]]></component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="ProjectColorInfo">{
+    &quot;associatedIndex&quot;: 0
+    }</component>
+  <component name="ProjectId" id="39UCEr4Lkko6ngFgtTlWTouifId" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+    &quot;keyToString&quot;: {
+    &quot;Application.AuthenticatorSimulation.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/amyrodriguez/IdeaProjects/a03-connectcarolina-amyrodriguez&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode.JAVA&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+    }
+    }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main" />
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="a03-connectcarolina-amyrodriguez" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="a03-connectcarolina-amyrodriguez" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.30387.90" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.30387.90" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb439f46-6940-450e-9d4b-893823ceb5e9" name="Changes" comment="" />
+      <created>1770741153761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1770741153761</updated>
+      <workItem from="1770741154821" duration="7625000" />
+      <workItem from="1770757651071" duration="990000" />
+      <workItem from="1770758648531" duration="116000" />
+      <workItem from="1770758807268" duration="2414000" />
+      <workItem from="1770768767070" duration="32000" />
+      <workItem from="1770844838265" duration="829000" />
+      <workItem from="1770845673430" duration="14663000" />
+      <workItem from="1770944989111" duration="62000" />
+      <workItem from="1771523086211" duration="25000" />
+      <workItem from="1772137889423" duration="815000" />
+    </task>
+    <task id="LOCAL-00001" summary="Adding calculateGPA method that takes the number of classes a student is taking and their grade to calculate their gpa">
+      <option name="closed" value="true" />
+      <created>1770748248396</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1770748248396</updated>
+    </task>
+    <task id="LOCAL-00002" summary="correcting exception messages to reflect the error more precisely">
+      <option name="closed" value="true" />
+      <created>1770748667139</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1770748667139</updated>
+    </task>
+    <task id="LOCAL-00003" summary="commiting work done on Apprentice and enchanter files">
+      <option name="closed" value="true" />
+      <created>1770759129015</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1770759129015</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commiting work done on Apprentice and enchanter files">
+      <option name="closed" value="true" />
+      <created>1770845493366</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770845493367</updated>
+    </task>
+    <task id="LOCAL-00005" summary="code for novice which takes the number of classes and the corresponding grades to calculate a students GPA">
+      <option name="closed" value="true" />
+      <created>1770850176645</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770850176645</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Fixing Compiler Error">
+      <option name="closed" value="true" />
+      <created>1770850220655</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1770850220655</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Fixing wording within exception throws and check if num classes is equal to grade array length">
+      <option name="closed" value="true" />
+      <created>1770850536147</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1770850536147</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Formatting code into proper format">
+      <option name="closed" value="true" />
+      <created>1770850633995</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1770850633995</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Pushing code for adept portion that focuses on CLE Events credits and the two exceptions created for this portion.">
+      <option name="closed" value="true" />
+      <created>1770853434648</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1770853434648</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Putting into proper code format">
+      <option name="closed" value="true" />
+      <created>1770853476749</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1770853476749</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Making Exceptions extensions of exception and not runtimeException">
+      <option name="closed" value="true" />
+      <created>1770853722561</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1770853722562</updated>
+    </task>
+    <task id="LOCAL-00012" summary="putting into proper format">
+      <option name="closed" value="true" />
+      <created>1770853956547</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1770853956547</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Uploading Jedi portion which focuses on student registration details of ConnectCarolina and the exception made for it.">
+      <option name="closed" value="true" />
+      <created>1770858321614</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1770858321614</updated>
+    </task>
+    <task id="LOCAL-00014" summary="putting files into proper format">
+      <option name="closed" value="true" />
+      <created>1770858356275</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1770858356275</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fixing execution message and calculateValidDay method">
+      <option name="closed" value="true" />
+      <created>1770858921800</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1770858921800</updated>
+    </task>
+    <task id="LOCAL-00016" summary="fixing calculateValidDay method">
+      <option name="closed" value="true" />
+      <created>1770865786505</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1770865786506</updated>
+    </task>
+    <task id="LOCAL-00017" summary="fixing duoAuthenticate method">
+      <option name="closed" value="true" />
+      <created>1770865882711</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1770865882711</updated>
+    </task>
+    <task id="LOCAL-00018" summary="fixing initStudents method">
+      <option name="closed" value="true" />
+      <created>1770866080719</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1770866080719</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Creating the main method for AutheticatorSimulation">
+      <option name="closed" value="true" />
+      <created>1770867290061</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1770867290061</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Defending against NullPointerExecptions in duoAuthenticate">
+      <option name="closed" value="true" />
+      <created>1770867494910</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1770867494910</updated>
+    </task>
+    <task id="LOCAL-00021" summary="putting code into proper format and adding NullPointerException as a throwable in duoAuthenticate">
+      <option name="closed" value="true" />
+      <created>1770867657930</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1770867657930</updated>
+    </task>
+    <task id="LOCAL-00022" summary="putting code into proper format and adding NullPointerException as a throwable in duoAuthenticate">
+      <option name="closed" value="true" />
+      <created>1770867826637</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1770867826637</updated>
+    </task>
+    <task id="LOCAL-00023" summary="putting code into proper format and adding NullPointerException as a throwable in duoAuthenticate">
+      <option name="closed" value="true" />
+      <created>1770867941916</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1770867941916</updated>
+    </task>
+    <task id="LOCAL-00024" summary="putting code into proper format and adding NullPointerException as a throwable in duoAuthenticate">
+      <option name="closed" value="true" />
+      <created>1770868104917</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1770868104917</updated>
+    </task>
+    <task id="LOCAL-00025" summary="putting code into proper format and adding NullPointerException as a throwable in duoAuthenticate">
+      <option name="closed" value="true" />
+      <created>1770868196122</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1770868196122</updated>
+    </task>
+    <task id="LOCAL-00026" summary="removing files">
+      <option name="closed" value="true" />
+      <created>1770868369520</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1770868369520</updated>
+    </task>
+    <task id="LOCAL-00027" summary="making main public">
+      <option name="closed" value="true" />
+      <created>1770868728213</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1770868728213</updated>
+    </task>
+    <task id="LOCAL-00028" summary="fixing format">
+      <option name="closed" value="true" />
+      <created>1770868945908</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1770868945908</updated>
+    </task>
+    <task id="LOCAL-00029" summary="making main public">
+      <option name="closed" value="true" />
+      <created>1770869018390</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1770869018390</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding calculateGPA method that takes the number of classes a student is taking and their grade to calculate their gpa" />
+    <MESSAGE value="correcting exception messages to reflect the error more precisely" />
+    <MESSAGE value="commiting work done on Apprentice and enchanter files" />
+    <MESSAGE value="code for novice which takes the number of classes and the corresponding grades to calculate a students GPA" />
+    <MESSAGE value="Fixing Compiler Error" />
+    <MESSAGE value="Fixing wording within exception throws and check if num classes is equal to grade array length" />
+    <MESSAGE value="Formatting code into proper format" />
+    <MESSAGE value="Pushing code for adept portion that focuses on CLE Events credits and the two exceptions created for this portion." />
+    <MESSAGE value="Putting into proper code format" />
+    <MESSAGE value="Making Exceptions extensions of exception and not runtimeException" />
+    <MESSAGE value="putting into proper format" />
+    <MESSAGE value="Uploading Jedi portion which focuses on student registration details of ConnectCarolina and the exception made for it." />
+    <MESSAGE value="putting files into proper format" />
+    <MESSAGE value="fixing execution message and calculateValidDay method" />
+    <MESSAGE value="fixing calculateValidDay method" />
+    <MESSAGE value="fixing duoAuthenticate method" />
+    <MESSAGE value="fixing initStudents method" />
+    <MESSAGE value="Creating the main method for AutheticatorSimulation" />
+    <MESSAGE value="Defending against NullPointerExecptions in duoAuthenticate" />
+    <MESSAGE value="putting code into proper format and adding NullPointerException as a throwable in duoAuthenticate" />
+    <MESSAGE value="removing files" />
+    <MESSAGE value="fixing format" />
+    <MESSAGE value="making main public" />
+    <option name="LAST_COMMIT_MESSAGE" value="making main public" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/Main.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
